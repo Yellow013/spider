@@ -1,4 +1,4 @@
-package org.opensource.spider.tools;
+package org.gentleman.spider.tools;
 //package com.cyanspring.adaptor.cstock.avro;
 //
 //import javax.jms.JMSException;

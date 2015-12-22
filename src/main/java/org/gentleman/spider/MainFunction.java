@@ -1,4 +1,4 @@
-package org.opensource.spider;
+package org.gentleman.spider;
 
 /**
  * Hello world!

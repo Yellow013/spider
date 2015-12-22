@@ -1,4 +1,4 @@
-package org.opensource.spider.http;
+package org.gentleman.spider.http;
 
 import java.io.IOException;
 import java.io.InputStream;

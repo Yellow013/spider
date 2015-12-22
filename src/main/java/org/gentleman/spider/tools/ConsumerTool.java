@@ -1,4 +1,4 @@
-package org.opensource.spider.tools;
+package org.gentleman.spider.tools;
 //package com.cyanspring.adaptor.cstock.avro;
 //
 ////ConsumerTool.java用于接受消息，此为基于消息监听的机制，
